@@ -1,0 +1,10 @@
+# ninja log v5
+5	458	6916586165010641	CMakeFiles/WallText.dir/cliente.cpp.obj	38234139cbe4955
+3	365	6916400356370143	CMakeFiles/WallText.dir/producto.cpp.obj	be83ff4951bab0ac
+3	529	6916652236210756	CMakeFiles/WallText.dir/main.cpp.obj	d47e8e938fc2b99
+603	720	6916652238114337	WallText.exe	bf6494d70150a341
+9	603	6916652236978139	CMakeFiles/WallText.dir/menu.cpp.obj	d07ef0d698f832a7
+15	563	6916652236569523	CMakeFiles/WallText.dir/carrito.cpp.obj	a238434d68e4eaf6
+18	566	6916652236609560	CMakeFiles/WallText.dir/stock.cpp.obj	641951a40dd8950a
+3	614	6916652552790237	CMakeFiles/WallText.dir/menu.cpp.obj	d07ef0d698f832a7
+615	1078	6916652557315106	WallText.exe	bf6494d70150a341

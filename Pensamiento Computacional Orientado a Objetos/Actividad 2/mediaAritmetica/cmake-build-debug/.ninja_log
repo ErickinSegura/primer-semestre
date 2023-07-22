@@ -1,0 +1,12 @@
+# ninja log v5
+6	1241	6909745878734604	CMakeFiles/mediaAritmetica.dir/media.cpp.obj	20db2828c574cdfb
+1	1251	6909745878854213	CMakeFiles/mediaAritmetica.dir/main.cpp.obj	429655a22488fded
+4	486	6909746072850860	CMakeFiles/mediaAritmetica.dir/media.cpp.obj	20db2828c574cdfb
+3	409	6909746404510857	CMakeFiles/mediaAritmetica.dir/main.cpp.obj	429655a22488fded
+409	533	6909746405716829	mediaAritmetica.exe	787b035762eef6aa
+4	443	6909746664553749	CMakeFiles/mediaAritmetica.dir/media.cpp.obj	20db2828c574cdfb
+444	586	6909746665939115	mediaAritmetica.exe	787b035762eef6aa
+4	422	6909746828685080	CMakeFiles/mediaAritmetica.dir/media.cpp.obj	20db2828c574cdfb
+423	568	6909746830125677	mediaAritmetica.exe	787b035762eef6aa
+3	489	6909747046630219	CMakeFiles/mediaAritmetica.dir/media.cpp.obj	20db2828c574cdfb
+490	622	6909747047846229	mediaAritmetica.exe	787b035762eef6aa

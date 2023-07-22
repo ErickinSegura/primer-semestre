@@ -1,0 +1,28 @@
+# ninja log v5
+2920	3135	6915012061405317	DeltaLibre.exe	2e40e427324b7c6d
+1	33	0	D:/Users/conta/Documents/Tec/Primer Semestre/POO/Proyecto/build-DeltaLibre-Desktop_Qt_6_4_1_MinGW_64_bit-Debug/CMakeFiles/cmake.verify_globs	63704d2fd0f38991
+350	2919	6915012059292392	CMakeFiles/DeltaLibre.dir/mainwindow.cpp.obj	dc644da48e7c13e3
+18	347	6915012033572552	D:/Users/conta/Documents/Tec/Primer Semestre/POO/Proyecto/build-DeltaLibre-Desktop_Qt_6_4_1_MinGW_64_bit-Debug/DeltaLibre_autogen/mocs_compilation.cpp	a570caaf7c328fec
+18	347	6915012033572552	DeltaLibre_autogen/timestamp	a570caaf7c328fec
+18	347	6915012033572552	D:/Users/conta/Documents/Tec/Primer Semestre/POO/Proyecto/build-DeltaLibre-Desktop_Qt_6_4_1_MinGW_64_bit-Debug/DeltaLibre_autogen/timestamp	a570caaf7c328fec
+18	347	6915012033572552	DeltaLibre_autogen/mocs_compilation.cpp	a570caaf7c328fec
+983	3649	6915010318911240	CMakeFiles/DeltaLibre.dir/DeltaLibre_autogen/mocs_compilation.cpp.obj	7bdac21cf3139ee4
+403	2789	6915011378848843	CMakeFiles/DeltaLibre.dir/main.cpp.obj	3a8d438a6a851e05
+76	986	6914330398781403	build.ninja	c7116858c9edbe46
+1	22	0	D:/Users/conta/Documents/Tec/Primer Semestre/POO/Proyecto/build-DeltaLibre-Desktop_Qt_6_4_1_MinGW_64_bit-Debug/CMakeFiles/cmake.verify_globs	63704d2fd0f38991
+2	23	0	D:/Users/conta/Documents/Tec/Primer Semestre/POO/Proyecto/build-DeltaLibre-Desktop_Qt_6_4_1_MinGW_64_bit-Debug/CMakeFiles/cmake.verify_globs	63704d2fd0f38991
+8	758	6915015812059498	DeltaLibre_autogen/timestamp	a570caaf7c328fec
+8	758	6915015812059498	DeltaLibre_autogen/mocs_compilation.cpp	a570caaf7c328fec
+8	758	6915015812059498	D:/Users/conta/Documents/Tec/Primer Semestre/POO/Proyecto/build-DeltaLibre-Desktop_Qt_6_4_1_MinGW_64_bit-Debug/DeltaLibre_autogen/timestamp	a570caaf7c328fec
+8	758	6915015812059498	D:/Users/conta/Documents/Tec/Primer Semestre/POO/Proyecto/build-DeltaLibre-Desktop_Qt_6_4_1_MinGW_64_bit-Debug/DeltaLibre_autogen/mocs_compilation.cpp	a570caaf7c328fec
+764	2583	6915015832457675	CMakeFiles/DeltaLibre.dir/DeltaLibre_autogen/mocs_compilation.cpp.obj	7bdac21cf3139ee4
+769	3142	6915015838025238	CMakeFiles/DeltaLibre.dir/mainwindow.cpp.obj	dc644da48e7c13e3
+2	30	0	D:/Users/conta/Documents/Tec/Primer Semestre/POO/Proyecto/build-DeltaLibre-Desktop_Qt_6_4_1_MinGW_64_bit-Debug/CMakeFiles/cmake.verify_globs	63704d2fd0f38991
+20	383	6915015949494203	DeltaLibre_autogen/timestamp	a570caaf7c328fec
+20	383	6915015949494203	DeltaLibre_autogen/mocs_compilation.cpp	a570caaf7c328fec
+20	383	6915015949494203	D:/Users/conta/Documents/Tec/Primer Semestre/POO/Proyecto/build-DeltaLibre-Desktop_Qt_6_4_1_MinGW_64_bit-Debug/DeltaLibre_autogen/timestamp	a570caaf7c328fec
+20	383	6915015949494203	D:/Users/conta/Documents/Tec/Primer Semestre/POO/Proyecto/build-DeltaLibre-Desktop_Qt_6_4_1_MinGW_64_bit-Debug/DeltaLibre_autogen/mocs_compilation.cpp	a570caaf7c328fec
+386	2795	6915015973610225	CMakeFiles/DeltaLibre.dir/main.cpp.obj	3a8d438a6a851e05
+390	3336	6915015979027926	CMakeFiles/DeltaLibre.dir/mainwindow.cpp.obj	dc644da48e7c13e3
+3336	3586	6915015981489666	DeltaLibre.exe	2e40e427324b7c6d
+12	161	0	D:/Users/conta/Documents/Tec/Primer Semestre/POO/Proyecto/build-DeltaLibre-Desktop_Qt_6_4_1_MinGW_64_bit-Debug/CMakeFiles/cmake.verify_globs	63704d2fd0f38991

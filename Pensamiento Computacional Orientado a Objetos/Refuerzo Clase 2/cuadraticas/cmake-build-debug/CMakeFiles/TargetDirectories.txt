@@ -1,0 +1,3 @@
+C:/Users/conta/CLionProjects/cuadraticas/cmake-build-debug/CMakeFiles/cuadraticas.dir
+C:/Users/conta/CLionProjects/cuadraticas/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/conta/CLionProjects/cuadraticas/cmake-build-debug/CMakeFiles/rebuild_cache.dir

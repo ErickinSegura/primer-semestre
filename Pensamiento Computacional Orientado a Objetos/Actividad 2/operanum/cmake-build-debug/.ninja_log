@@ -1,0 +1,17 @@
+# ninja log v5
+7	1118	6902250228998178	CMakeFiles/operanum.dir/numero.cpp.obj	ae08e498e0101b9b
+1	1126	6902250229067949	CMakeFiles/operanum.dir/main.cpp.obj	440a5818461fe351
+3	328	6902250445884232	CMakeFiles/operanum.dir/numero.cpp.obj	ae08e498e0101b9b
+328	434	6902250446920768	operanum.exe	8683af81b111377
+3	603	6902251704301225	CMakeFiles/operanum.dir/numero.cpp.obj	ae08e498e0101b9b
+603	1173	6902251709969565	operanum.exe	8683af81b111377
+3	866	6902252523076380	CMakeFiles/operanum.dir/numero.cpp.obj	ae08e498e0101b9b
+867	1122	6902252525558229	operanum.exe	8683af81b111377
+3	363	6902253070947834	CMakeFiles/operanum.dir/numero.cpp.obj	ae08e498e0101b9b
+364	516	6902253072421826	operanum.exe	8683af81b111377
+3	818	6902255209800140	CMakeFiles/operanum.dir/numero.cpp.obj	ae08e498e0101b9b
+819	1430	6902255215861210	operanum.exe	8683af81b111377
+4	561	6902258261745078	CMakeFiles/operanum.dir/main.cpp.obj	440a5818461fe351
+8	578	6902258261924395	CMakeFiles/operanum.dir/numero.cpp.obj	ae08e498e0101b9b
+3	480	6902259331528300	CMakeFiles/operanum.dir/numero.cpp.obj	ae08e498e0101b9b
+481	591	6902259332624680	operanum.exe	8683af81b111377

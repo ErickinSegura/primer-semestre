@@ -1,0 +1,7 @@
+# ninja log v5
+1	1110	6902323285723616	CMakeFiles/sumaPares.dir/main.cpp.obj	1934588b7ecc1615
+5	1113	6902323285723616	CMakeFiles/sumaPares.dir/numero.cpp.obj	a68dc6cbc607f9fe
+1114	1983	6902323294407967	sumaPares.exe	846035555bc8a6fa
+4	372	6902324644430462	CMakeFiles/sumaPares.dir/main.cpp.obj	1934588b7ecc1615
+9	391	6902324644629778	CMakeFiles/sumaPares.dir/numero.cpp.obj	a68dc6cbc607f9fe
+391	839	6902324649075489	sumaPares.exe	846035555bc8a6fa

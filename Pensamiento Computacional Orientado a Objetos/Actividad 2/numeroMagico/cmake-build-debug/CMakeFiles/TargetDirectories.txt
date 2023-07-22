@@ -1,0 +1,3 @@
+C:/Users/conta/CLionProjects/numeroMagico/cmake-build-debug/CMakeFiles/numeroMagico.dir
+C:/Users/conta/CLionProjects/numeroMagico/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/conta/CLionProjects/numeroMagico/cmake-build-debug/CMakeFiles/rebuild_cache.dir

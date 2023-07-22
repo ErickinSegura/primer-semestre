@@ -1,0 +1,20 @@
+# ninja log v5
+36	3818	6912883212486971	CMakeFiles/conversionCelsiusFarenheit.dir/temperatura.cpp.obj	ca7ff9ccce2d1b29
+2	3822	6912883212477004	CMakeFiles/conversionCelsiusFarenheit.dir/main.cpp.obj	63e6cff13114f481
+3822	5120	6912883225472589	conversionCelsiusFarenheit.exe	ed92289e2a668c4b
+303	695	6912883730673334	CMakeFiles/conversionCelsiusFarenheit.dir/main.cpp.obj	63e6cff13114f481
+696	950	6912883733182581	conversionCelsiusFarenheit.exe	ed92289e2a668c4b
+3	445	6912884134679555	CMakeFiles/conversionCelsiusFarenheit.dir/temperatura.cpp.obj	ca7ff9ccce2d1b29
+447	617	6912884136372535	conversionCelsiusFarenheit.exe	ed92289e2a668c4b
+3	454	6912885047715072	CMakeFiles/conversionCelsiusFarenheit.dir/temperatura.cpp.obj	ca7ff9ccce2d1b29
+454	694	6912885050092235	conversionCelsiusFarenheit.exe	ed92289e2a668c4b
+4	408	6912885454249593	CMakeFiles/conversionCelsiusFarenheit.dir/temperatura.cpp.obj	ca7ff9ccce2d1b29
+409	537	6912885455506437	conversionCelsiusFarenheit.exe	ed92289e2a668c4b
+3	398	6912885709492897	CMakeFiles/conversionCelsiusFarenheit.dir/temperatura.cpp.obj	ca7ff9ccce2d1b29
+399	533	6912885710808495	conversionCelsiusFarenheit.exe	ed92289e2a668c4b
+4	862	6912886101516401	CMakeFiles/conversionCelsiusFarenheit.dir/temperatura.cpp.obj	ca7ff9ccce2d1b29
+863	984	6912886102708882	conversionCelsiusFarenheit.exe	ed92289e2a668c4b
+3	476	6912886438262255	CMakeFiles/conversionCelsiusFarenheit.dir/temperatura.cpp.obj	ca7ff9ccce2d1b29
+476	732	6912886440695336	conversionCelsiusFarenheit.exe	ed92289e2a668c4b
+7	558	6912887214407736	CMakeFiles/conversionCelsiusFarenheit.dir/temperatura.cpp.obj	ca7ff9ccce2d1b29
+558	809	6912887216888005	conversionCelsiusFarenheit.exe	ed92289e2a668c4b

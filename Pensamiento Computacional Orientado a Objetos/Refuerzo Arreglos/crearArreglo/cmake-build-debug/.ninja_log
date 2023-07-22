@@ -1,0 +1,8 @@
+# ninja log v5
+1	1183	6913271177626697	CMakeFiles/crearArreglo.dir/main.cpp.obj	bad41cd29312b44b
+8	1197	6913271177796131	CMakeFiles/crearArreglo.dir/arreglo.cpp.obj	51e631950415b320
+1198	1908	6913271184917168	crearArreglo.exe	1afa6527c3c2bc45
+6	486	6913272180589426	CMakeFiles/crearArreglo.dir/arreglo.cpp.obj	51e631950415b320
+487	608	6913272181804461	crearArreglo.exe	1afa6527c3c2bc45
+4	513	6913272462277300	CMakeFiles/crearArreglo.dir/arreglo.cpp.obj	51e631950415b320
+513	838	6913272465501803	crearArreglo.exe	1afa6527c3c2bc45

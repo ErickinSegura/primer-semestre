@@ -1,0 +1,10 @@
+# ninja log v5
+0	757	6914604175459164	CMakeFiles/arrayString.dir/main.cpp.obj	7cb98493dddf9eab
+4	761	6914604175499311	CMakeFiles/arrayString.dir/arreglo.cpp.obj	9943a0e7776fdc51
+3	327	6914604665660878	CMakeFiles/arrayString.dir/arreglo.cpp.obj	9943a0e7776fdc51
+328	439	6914604666766699	arrayString.exe	706694423c8da842
+3	340	6914606098959622	CMakeFiles/arrayString.dir/main.cpp.obj	7cb98493dddf9eab
+7	502	6914606100584026	CMakeFiles/arrayString.dir/arreglo.cpp.obj	9943a0e7776fdc51
+503	780	6914606103303412	arrayString.exe	706694423c8da842
+3	319	6914606261328835	CMakeFiles/arrayString.dir/arreglo.cpp.obj	9943a0e7776fdc51
+320	465	6914606262780250	arrayString.exe	706694423c8da842

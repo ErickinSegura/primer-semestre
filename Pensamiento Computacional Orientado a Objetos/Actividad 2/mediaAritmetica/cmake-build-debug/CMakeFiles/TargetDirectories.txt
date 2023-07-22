@@ -1,0 +1,3 @@
+C:/Users/conta/CLionProjects/mediaAritmetica/cmake-build-debug/CMakeFiles/mediaAritmetica.dir
+C:/Users/conta/CLionProjects/mediaAritmetica/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/conta/CLionProjects/mediaAritmetica/cmake-build-debug/CMakeFiles/rebuild_cache.dir

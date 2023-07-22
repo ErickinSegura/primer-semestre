@@ -1,0 +1,3 @@
+C:/Users/conta/CLionProjects/sumaPares/cmake-build-debug/CMakeFiles/sumaPares.dir
+C:/Users/conta/CLionProjects/sumaPares/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/conta/CLionProjects/sumaPares/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,23 @@
+# ninja log v5
+5	1834	6903607270395453	CMakeFiles/numeroMagico.dir/numero.cpp.obj	4d8a17663c98b185
+1	1843	6903607270485172	CMakeFiles/numeroMagico.dir/main.cpp.obj	5b7ca460e4e76e04
+1843	2457	6903607276594742	numeroMagico.exe	94b32b5f3b9ed844
+8	538	6903607463131635	CMakeFiles/numeroMagico.dir/numero.cpp.obj	4d8a17663c98b185
+539	725	6903607464975471	numeroMagico.exe	94b32b5f3b9ed844
+5	475	6903607946049933	CMakeFiles/numeroMagico.dir/numero.cpp.obj	4d8a17663c98b185
+476	614	6903607947415288	numeroMagico.exe	94b32b5f3b9ed844
+5	542	6903608204059908	CMakeFiles/numeroMagico.dir/numero.cpp.obj	4d8a17663c98b185
+543	779	6903608206403634	numeroMagico.exe	94b32b5f3b9ed844
+4	414	6903608547765972	CMakeFiles/numeroMagico.dir/numero.cpp.obj	4d8a17663c98b185
+415	546	6903608549146633	numeroMagico.exe	94b32b5f3b9ed844
+6	490	6903609094630883	CMakeFiles/numeroMagico.dir/numero.cpp.obj	4d8a17663c98b185
+491	652	6903609096225467	numeroMagico.exe	94b32b5f3b9ed844
+4	451	6903612658985846	CMakeFiles/numeroMagico.dir/numero.cpp.obj	4d8a17663c98b185
+452	585	6903612660281423	numeroMagico.exe	94b32b5f3b9ed844
+101	1488	6903621574502866	CMakeFiles/numeroMagico.dir/numero.cpp.obj	4d8a17663c98b185
+12	1500	6903621574592614	CMakeFiles/numeroMagico.dir/main.cpp.obj	5b7ca460e4e76e04
+1501	2299	6903621582569575	numeroMagico.exe	94b32b5f3b9ed844
+3	585	6903621997889588	CMakeFiles/numeroMagico.dir/numero.cpp.obj	4d8a17663c98b185
+585	823	6903622000261653	numeroMagico.exe	94b32b5f3b9ed844
+19	1395	6903624738459134	CMakeFiles/numeroMagico.dir/numero.cpp.obj	4d8a17663c98b185
+1395	1985	6903624744339467	numeroMagico.exe	94b32b5f3b9ed844

@@ -1,0 +1,3 @@
+C:/Users/conta/CLionProjects/WallText/cmake-build-debug/CMakeFiles/WallText.dir
+C:/Users/conta/CLionProjects/WallText/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/conta/CLionProjects/WallText/cmake-build-debug/CMakeFiles/rebuild_cache.dir

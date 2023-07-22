@@ -1,0 +1,3 @@
+C:/Users/conta/CLionProjects/conversionCelsiusFarenheit/cmake-build-debug/CMakeFiles/conversionCelsiusFarenheit.dir
+C:/Users/conta/CLionProjects/conversionCelsiusFarenheit/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/conta/CLionProjects/conversionCelsiusFarenheit/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,3 @@
+C:/Users/conta/CLionProjects/serieAritmetica/cmake-build-debug/CMakeFiles/serieAritmetica.dir
+C:/Users/conta/CLionProjects/serieAritmetica/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/conta/CLionProjects/serieAritmetica/cmake-build-debug/CMakeFiles/rebuild_cache.dir

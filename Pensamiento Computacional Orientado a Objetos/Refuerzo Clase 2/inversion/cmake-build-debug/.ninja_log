@@ -1,0 +1,18 @@
+# ninja log v5
+1	1938	6902223307957504	CMakeFiles/inversion.dir/main.cpp.obj	a22bc1d312e666c6
+29	1955	6902223308130871	CMakeFiles/inversion.dir/dinero.cpp.obj	a8f540e881348f58
+1956	2900	6902223317502724	inversion.exe	7c0c8aa0fabd6fdc
+9	840	6902224888592081	CMakeFiles/inversion.dir/dinero.cpp.obj	a8f540e881348f58
+843	1237	6902224892502569	inversion.exe	7c0c8aa0fabd6fdc
+5	831	6902225344223683	CMakeFiles/inversion.dir/dinero.cpp.obj	a8f540e881348f58
+833	1207	6902225347951408	inversion.exe	7c0c8aa0fabd6fdc
+6	648	6902225662511185	CMakeFiles/inversion.dir/dinero.cpp.obj	a8f540e881348f58
+649	857	6902225664548954	inversion.exe	7c0c8aa0fabd6fdc
+8	693	6902226223362650	CMakeFiles/inversion.dir/dinero.cpp.obj	a8f540e881348f58
+695	983	6902226226235039	inversion.exe	7c0c8aa0fabd6fdc
+8	665	6902226584538334	CMakeFiles/inversion.dir/dinero.cpp.obj	a8f540e881348f58
+667	928	6902226587082513	inversion.exe	7c0c8aa0fabd6fdc
+4	672	6902262364404595	CMakeFiles/inversion.dir/dinero.cpp.obj	a8f540e881348f58
+673	1017	6902262367805219	inversion.exe	7c0c8aa0fabd6fdc
+4	346	6902262736323029	CMakeFiles/inversion.dir/dinero.cpp.obj	a8f540e881348f58
+346	458	6902262737409396	inversion.exe	7c0c8aa0fabd6fdc

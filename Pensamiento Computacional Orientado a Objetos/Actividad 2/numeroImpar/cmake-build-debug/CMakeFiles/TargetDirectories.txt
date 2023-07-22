@@ -1,0 +1,3 @@
+C:/Users/conta/CLionProjects/numeroImpar/cmake-build-debug/CMakeFiles/numeroImpar.dir
+C:/Users/conta/CLionProjects/numeroImpar/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/conta/CLionProjects/numeroImpar/cmake-build-debug/CMakeFiles/rebuild_cache.dir

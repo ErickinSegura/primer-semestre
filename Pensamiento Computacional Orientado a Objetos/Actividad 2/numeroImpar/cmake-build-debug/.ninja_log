@@ -1,0 +1,6 @@
+# ninja log v5
+1	821	6902269654888067	CMakeFiles/numeroImpar.dir/main.cpp.obj	96e853a70b17eb7e
+6	936	6902269656044197	CMakeFiles/numeroImpar.dir/numero.cpp.obj	c4fdaf5d46d69ba8
+936	1650	6902269663138760	numeroImpar.exe	fbababcb2b0b7c15
+2	323	6902269926844368	CMakeFiles/numeroImpar.dir/numero.cpp.obj	c4fdaf5d46d69ba8
+324	434	6902269927908549	numeroImpar.exe	fbababcb2b0b7c15

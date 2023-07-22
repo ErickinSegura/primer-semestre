@@ -1,0 +1,16 @@
+# ninja log v5
+3	322	6917362539865718	CMakeFiles/serieAritmetica.dir/serie.cpp.obj	87c6bfef25b1f4f3
+4	1423	6917355556786761	CMakeFiles/serieAritmetica.dir/main.cpp.obj	14be0670c9854333
+323	420	6917362540832484	serieAritmetica.exe	2fadb4d2b185371c
+3	312	6917362677842759	CMakeFiles/serieAritmetica.dir/serie.cpp.obj	87c6bfef25b1f4f3
+312	414	6917362678839423	serieAritmetica.exe	2fadb4d2b185371c
+3	1951	6917362790038988	CMakeFiles/serieAritmetica.dir/serie.cpp.obj	87c6bfef25b1f4f3
+1951	2055	6917362791152630	serieAritmetica.exe	2fadb4d2b185371c
+3	375	6917363171930273	CMakeFiles/serieAritmetica.dir/serie.cpp.obj	87c6bfef25b1f4f3
+375	488	6917363173011730	serieAritmetica.exe	2fadb4d2b185371c
+3	371	6917363481874611	CMakeFiles/serieAritmetica.dir/serie.cpp.obj	87c6bfef25b1f4f3
+372	496	6917363483080747	serieAritmetica.exe	2fadb4d2b185371c
+4	346	6917363724681487	CMakeFiles/serieAritmetica.dir/serie.cpp.obj	87c6bfef25b1f4f3
+346	462	6917363725807646	serieAritmetica.exe	2fadb4d2b185371c
+2	391	6917364164059697	CMakeFiles/serieAritmetica.dir/serie.cpp.obj	87c6bfef25b1f4f3
+392	505	6917364165295859	serieAritmetica.exe	2fadb4d2b185371c
