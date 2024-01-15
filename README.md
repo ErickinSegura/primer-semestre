@@ -13,4 +13,4 @@ Programación básica en Python<br><br>
 
 <a href="https://github.com/ErickinSegura/primer-semestre/tree/main/Pensamiento%20Computacional%20Orientado%20a%20Objetos" target="_blank">**[TC1033] Pensamiento Computacional Orientado a Objetos**</a>
 
-Programación orientada a objetos en C++
+Programación orientada a objetos básica en C++
